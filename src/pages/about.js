@@ -12,8 +12,8 @@ const AboutPage = () => (
         <SEO title="About"/>
 
         <div className={"page-header"}>
-            <h2>What’s HiStaff?</h2>
-            <p>HiStaff is a service that boost the staff’s productivity by offering new ways<br />to increase employee motivation and happiness.</p>
+            <h2>What’s Roadgauge?</h2>
+            <p>Roadgauge is a service to help users track traffic conditions and get notifications when travel time for specifc routes drops below a certain amount.</p>
         </div>
 
         <div className={"container"}>
