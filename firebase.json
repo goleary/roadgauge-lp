@@ -1,0 +1,20 @@
+{
+  "hosting": {
+    "site": "roadgauge-lp",
+    "public": "public",
+    "predeploy": [
+      "yarn build"
+    ],
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
