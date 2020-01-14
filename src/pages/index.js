@@ -10,7 +10,7 @@ import thumbnailTrack from "../../static/images/desktop-screenshot.png"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Make your Staff and Workspace Happy" />
+    <SEO title="Avoid Traffic and Road Rage" />
 
     <div className={"page-header home"}>
       <h1>Avoid Road Rage</h1>
